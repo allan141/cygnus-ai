@@ -1,7 +1,22 @@
+# Ambiente Python
 .venv/
 __pycache__/
 *.pyc
 .pytest_cache/
+
+# Configuracoes sensiveis
 .env
+.env.*
+
+# Checkpoints e modelos treinados
 checkpoints/
+*.pt
+*.pth
+
+# Dados de treinamento
 data/raw/
+data/wikipedia/
+data/v4_corpus/
+
+# Arquivos temporarios
+*.log
