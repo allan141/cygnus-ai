@@ -1,0 +1,29 @@
+{
+  "total_tokens": 2671213,
+  "categorias": {
+    "geografia": {
+      "documentos": 250,
+      "tokens": 528378
+    },
+    "historia": {
+      "documentos": 250,
+      "tokens": 961781
+    },
+    "ciencia_tecnologia": {
+      "documentos": 202,
+      "tokens": 516723
+    },
+    "astronomia": {
+      "documentos": 123,
+      "tokens": 218788
+    },
+    "biologia": {
+      "documentos": 78,
+      "tokens": 229585
+    },
+    "outros": {
+      "documentos": 215,
+      "tokens": 215958
+    }
+  }
+}
